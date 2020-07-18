@@ -1,0 +1,85 @@
+
+/* title */
+
+#title{
+  background-color: #ff847c
+}
+h1,h2,h3{
+  font-family: Montserrat;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+p{
+  font-family: Montserrat;
+}
+.top-heading{
+  text-align: left;
+  margin: auto;
+  padding: 7% 0;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3.5% 15%;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+  padding-left: 0;
+}
+.navbar-brand{
+  font-size: 3rem;
+  font-family: Ubuntu;
+}
+
+.title-img{
+  margin:7% 10%;
+}
+.nav-item{
+  padding: 0 20px;
+  font-size: 1.2rem;
+}
+.shop-button{
+  margin: 3% 0;
+}
+.row-element{
+ margin: 0;
+ padding-bottom: 7%;
+}
+
+/* shopping portion */
+.grid{
+  padding: 7% 15%;
+}
+.col-element{
+  padding-left: 0;
+}
+.card{
+  width: 18rem;
+}
+
+
+/* social-section */
+
+#social-section{
+  background-color: #ff847c;
+  padding: 3% 15% 0;
+}
+
+.bottom-heading{
+  color: #fff;
+  padding-bottom: 20px;
+}
+.channel-title{
+  padding-top: 7%;
+}
+
+/* footer */
+
+#footer{
+  padding: 3.5% 15%;
+  text-align: center;
+}
+
+.footer-icon{
+  padding: 1.3rem;
+}
